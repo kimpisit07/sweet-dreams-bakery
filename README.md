@@ -172,9 +172,8 @@ sweet-dreams-bakery/
 
 หากต้องการปรับแต่งหรือพัฒนาเพิ่มเติม สามารถติดต่อได้ที่:
 
-- 📧 Email: developer@example.com
-- 📱 Phone: 02-XXX-XXXX
-- 🌐 Website: www.developer.com
+- 📧 Email: kim.pisit07@gmail.com
+- 📱 Phone: 098-3902691
 
 ## 📄 License
 
@@ -183,5 +182,6 @@ sweet-dreams-bakery/
 ---
 
 **Sweet Dreams Bakery** - Where Every Bite is a Sweet Dream 🍰✨
+
 
 *สร้างด้วยความใส่ใจสำหรับธุรกิจขนาดเล็ก*
